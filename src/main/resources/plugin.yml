@@ -1,0 +1,7 @@
+name: Core
+main: com.github.martinyes.Main
+version: 2.0
+depend:
+  - ProtocolLib
+  - helper
+  - Citizens
